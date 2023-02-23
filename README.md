@@ -3,7 +3,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedora Full Stack Front End 
+    I am a Full Stack Developer
   </p>
 
 <div align="center">

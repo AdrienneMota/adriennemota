@@ -29,8 +29,11 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+ <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg"/>
+ <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+ <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg"/>
 </div></br>
 
 ##

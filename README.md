@@ -1,5 +1,6 @@
  <h1 align="left">
-    Oi, Eu sou Adrienne Mota e Bem-vinda(o) ao meu portifolio. 
+    Oi, Eu sou Adrienne Mota</br>
+    Bem-vinda(o) ao meu portifolio. 
   </h1>
   
   <p align="left">
@@ -7,7 +8,7 @@
     ---------------------------</br>
        * 💻 Sou uma desenvolvedora web full stack que gosta de projetos desafiadores e com propósito. </br>
        * 🌍 Atualmente, moro em Palhoça - SC, mas sou manaura viciada em açaí. </br>
-       * 😊 Nas horas vagas sou nerd e otaku, me esforço pra ser a tia legal e mãe da ingrid🐱 e da mel 🐶.
+       * 😊 Nas horas vagas sou nerd e otaku, me esforço pra ser a tia legal e mãe da ingrid🐱 e da mel 🐶. </br>
        * 🤝 Sinta-se a vontade para contribuir com os projetos ou compartilhar novas ideias comigo. 
     
   </p></br>
